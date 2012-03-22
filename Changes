@@ -4,3 +4,5 @@ Revision history for Perl extension Compellent::CompCU.
 	- original version; created by h2xs 1.23 with options
 		-AX -n Compellent::CompCU
 
+0.02  Thu Mar 22 15:38:00 2012
+	- Fix to Makefile.PL to correct module name.
