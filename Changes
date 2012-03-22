@@ -1,0 +1,6 @@
+Revision history for Perl extension Compellent::CompCU.
+
+0.01  Thu Mar 15 13:52:30 2012
+	- original version; created by h2xs 1.23 with options
+		-AX -n Compellent::CompCU
+
