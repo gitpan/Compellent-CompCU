@@ -9,3 +9,6 @@ Revision history for Perl extension Compellent::CompCU.
 
 0.03  Thu Mar 22 15:54:00 2012
 	- Added t/.
+
+0.04  Fri Mar 22 19:52:00 2012
+	- Removed extraneous files (svn and NetBeans stuff) that were accidently included.

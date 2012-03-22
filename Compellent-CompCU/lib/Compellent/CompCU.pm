@@ -26,7 +26,7 @@ require Exporter;
 our @ISA = qw(Exporter);
 
 our @EXPORT_OK = qw();
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head2 Subroutines
 

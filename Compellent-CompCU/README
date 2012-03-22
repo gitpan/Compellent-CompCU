@@ -1,4 +1,4 @@
-Compellent-CompCU version 0.01
+Compellent-CompCU version 0.04 
 ====================================
 
 Compellent::CompCU provides a Perl wrapper around Compellent's command line tool.
