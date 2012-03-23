@@ -12,3 +12,6 @@ Revision history for Perl extension Compellent::CompCU.
 
 0.04  Fri Mar 22 19:52:00 2012
 	- Removed extraneous files (svn and NetBeans stuff) that were accidently included.
+
+0.05  Fri Mar 22 20:10:00 2012
+	- Changed minimum required Perl version to 5.8.9. No language features newer than that were used.
